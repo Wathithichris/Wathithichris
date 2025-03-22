@@ -2,6 +2,7 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 ======================================================================================================================================
 
 My name is Chris Wathithi, an investment student at ICIFA College KE pursuing a Cerified Investment and Financial Analyst certification.
+I am passionate about finance and technology, and look leverage Python in financial applications.
 
 * 💻 My interests lie within the field of quantitative finance
 * 🧠  I'm learning Python and SQL
