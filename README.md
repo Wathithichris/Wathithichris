@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data analyst
 ------------
 
-An aspiring financial analyst with an interest in leveraging the power of python in finance.
+An Investment student at Institute of Certified Investment and Financial Analyst(ICIFA). Looking to leverage the power of python to make data driven decisions.
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [mwangiwathithi@gmail.com](mailto:mwangiwathithi@gmail.com)
