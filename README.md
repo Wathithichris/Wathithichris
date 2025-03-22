@@ -1,14 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chris Wathithi
+Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
 
-Data analyst
-------------
+My name is Chris Wathithi, an investment student at ICIFA College KE pursuing a Cerified Investment and Financial Analyst certification.
 
-An Investment student at Institute of Certified Investment and Financial Analyst(ICIFA). Looking to leverage the power of python to make data driven decisions.
-
-* 🌍  I'm based in Nairobi, Kenya
-* ✉️  You can contact me at [mwangiwathithi@gmail.com](mailto:mwangiwathithi@gmail.com)
+* 💻 My interests lie within the field of quantitative finance
 * 🧠  I'm learning Python and SQL
+* 🛠 My favorite IDEs are Pycharm and VS Code
+* ✉️  You can contact me at [mwangiwathithi@gmail.com](mailto:mwangiwathithi@gmail.com)
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
