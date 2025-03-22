@@ -4,11 +4,11 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 My name is Chris Wathithi, an investment student at ICIFA College KE pursuing a Cerified Investment and Financial Analyst certification.
 I am passionate about finance and technology, and look leverage Python in financial applications.
 
-* 💻 My interests lie within the field of quantitative finance
-* 🧠  I'm learning Python and SQL
-* 🛠 My favorite IDEs are Pycharm and VS Code
-* ✉️  You can contact me at [mwangiwathithi@gmail.com](mailto:mwangiwathithi@gmail.com)
-* 🤝  I'm open to collaborating on Projects
+* 💻 My interests lie within the field of quantitative analysis and data-driven decision-making
+* 🧠 I'm learning Python and SQL
+* 🛠  My favorite IDEs are Pycharm and VS Code
+* ✉️ You can contact me at [mwangiwathithi@gmail.com](mailto:mwangiwathithi@gmail.com)
+* 🤝 Open to collaboration on finance-related python projects
 
 ### Skills
 
